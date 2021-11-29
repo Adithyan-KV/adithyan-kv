@@ -6,7 +6,7 @@ Hobbyist programmer, Linux and FOSS enthusiast.
 - 🙂 Pronouns he/him
 
 <!-- github activity stats -->
-[![Adithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyan-kv&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Adithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyankv&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages, libraries and frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

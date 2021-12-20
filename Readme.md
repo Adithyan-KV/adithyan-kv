@@ -2,7 +2,7 @@
 
 Hobbyist programmer, Linux and FOSS enthusiast.
 
-- 🧑‍🎓 Currently learning ![Rust](https://www.rust-lang.org/)
+- 🧑‍🎓 Currently learning [Rust](https://www.rust-lang.org/)
 - 🙂 Pronouns he/him
 
 <!-- github activity stats -->

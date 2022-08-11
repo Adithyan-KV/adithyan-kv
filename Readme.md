@@ -2,9 +2,6 @@
 
 Hobbyist programmer, Linux desktop app developer, Linux and FOSS enthusiast.
 
-- 🧑‍🎓 Currently learning [Rust](https://www.rust-lang.org/)
-- 🙂 Pronouns he/him
-
 <!-- github activity stats -->
 [![Adithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithyankv&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -15,6 +15,8 @@ Hobbyist programmer, Linux desktop app developer, Linux and FOSS enthusiast.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=for-the-badge)
+![GTK Badge](https://img.shields.io/badge/GTK-7FE719?logo=gtk&logoColor=000&style=for-the-badge)
 
 ### Tools
 #### os
